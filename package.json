@@ -1,0 +1,20 @@
+{
+  "name": "switchbranches",
+  "version": "1.0.0",
+  "description": "Switch branches in some directories",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "GrigoryVolchok",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "@types/watch": "^1.0.3",
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.15",
+    "ts-jest": "^28.0.3",
+    "typescript": "^4.6.3"
+  }
+}
